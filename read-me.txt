@@ -1,0 +1,8 @@
+untuk link api yang ada di flutter mohon di cocokkan dengan ip computer/device
+1. buka cmd
+2. ketik "ipconfig"
+3. copas ip yang ada di ipv4 address
+4. ganti ip di link api yang ada di file api_service.dart
+5. save & run
+
+**  saya menggunakan xampp dan php artisan serve untuk menjalankan api di laravel
